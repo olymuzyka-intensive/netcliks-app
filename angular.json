@@ -99,6 +99,14 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy",
+          "options": {
+            "buildTarget": "netcliks-app:build:production",
+            "repo": "https://github.com/olymuzyka-intensive/netcliks-app.git",
+            "baseHref": "/netcliks-app/"
+          }
         }
       }
     }

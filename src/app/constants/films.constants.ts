@@ -3,7 +3,7 @@ import { Film } from "../models/films.model";
 export const FILMS: Film[] = [
   {
     id: 0,
-    title: 'Марсианин 1,',
+    title: 'Марсианин 1',
     originalTitle: 'The Martian 2015',
     category: 'Фантастика, приключения',
     rating: 7.8,
@@ -13,7 +13,7 @@ export const FILMS: Film[] = [
   },
   {
     id: 1,
-    title: 'Марсианин 2,',
+    title: 'Марсианин 2',
     originalTitle: 'The Martian 2015',
     category: 'Фантастика, приключения',
     rating: 7.8,
@@ -24,7 +24,7 @@ export const FILMS: Film[] = [
   },
   {
     id: 2,
-    title: 'Марсианин 3,',
+    title: 'Марсианин 3',
     originalTitle: 'The Martian 2015',
     category: 'Фантастика, приключения',
     rating: 7.8,
