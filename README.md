@@ -1,3 +1,5 @@
+## DEMO https://olymuzyka-intensive.github.io/netcliks-app/
+
 # NetcliksApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.6.
